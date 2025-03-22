@@ -22,9 +22,10 @@
   letter-spacing: 0.02em;
   line-height: 1.5;
 }
-.nav-link: hover,
-.nav-link: focus {
-  color: #404bbf;
+.nav-menu .nav-link:hover,
+.nav-menu .nav-link:focus {
+  color: #4d5ae5;
+  text-decoration: underline;
 }
 .contact-info {
   font-style: normal;
@@ -39,9 +40,10 @@
   letter-spacing: 0.02em;
   line-height: 1.5;
 }
-.contacts: hover,
-.contacts: focus {
-  color: #404bbf;
+.contact-list .contacts:hover,
+.contact-list .contacts:focus {
+  color: #4d5ae5;
+  text-decoration: underline;
 }
 .body {
   font-family: "Roboto", sans-serif;
@@ -71,9 +73,9 @@
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
-.btn: hover,
-.btn: focus {
-  background-color: #404BBF;
+.btn:hover,
+.btn:focus {
+  background-color: #404bbf;
 }
 .main-page {
   background-color: #ffffff;
