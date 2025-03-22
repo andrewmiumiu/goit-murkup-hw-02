@@ -18,14 +18,12 @@
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   text-decoration: none;
-  transition: color 0.3s ease;
   letter-spacing: 0.02em;
   line-height: 1.5;
 }
 .nav-link:hover,
 .nav-link:focus {
-  color: #4d5ae5;
-  text-decoration: underline;
+  color: #404bbf;
 }
 .contact-info {
   font-style: normal;
@@ -36,14 +34,12 @@
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   text-decoration: none;
-  transition: color 0.3s;
   letter-spacing: 0.02em;
   line-height: 1.5;
 }
-.contact-list .contacts:hover,
-.contact-list .contacts:focus {
-  color: #4d5ae5;
-  text-decoration: underline;
+.contacts:hover,
+.contacts:focus {
+  color: #404bbf;
 }
 .body {
   font-family: "Roboto", sans-serif;
@@ -71,11 +67,10 @@
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
-  transition: background-color 0.3s ease;
 }
 .btn:hover,
 .btn:focus {
-  background-color: #404bbf;
+  background-color: #404BBF;
 }
 .main-page {
   background-color: #ffffff;
