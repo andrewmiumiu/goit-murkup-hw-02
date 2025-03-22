@@ -105,15 +105,19 @@
 .section-about {
   background-color: #f4f4fd;
 }
-.abtus {
+.abt-us {
   font-family: "Roboto", sans-serif;
   font-size: 36px;
   font-weight: 700;
+  background-color: #ffffff;
   color: #2e2f42;
   letter-spacing: 0.02em;
   line-height: 1.11;
   text-transform: capitalize;
   text-align: center;
+}
+.item {
+  background-color: #ffffff;
 }
 .names {
   font-family: "Roboto", sans-serif;
