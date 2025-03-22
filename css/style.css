@@ -22,8 +22,8 @@
   letter-spacing: 0.02em;
   line-height: 1.5;
 }
-.nav-link:hover,
-.nav-link:focus {
+.nav-link: hover,
+.nav-link: focus {
   color: #4d5ae5;
   text-decoration: underline;
 }
@@ -40,8 +40,8 @@
   letter-spacing: 0.02em;
   line-height: 1.5;
 }
-.contacts:hover,
-.contacts:focus {
+.contacts: hover,
+.contacts: focus {
   color: #4d5ae5;
   text-decoration: underline;
 }
@@ -73,8 +73,8 @@
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
-.btn:hover,
-.btn:focus {
+.btn: hover,
+.btn: focus {
   background-color: #404bbf;
 }
 .main-page {
