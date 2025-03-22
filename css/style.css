@@ -25,7 +25,6 @@
 .nav-link: hover,
 .nav-link: focus {
   color: #404bbf;
-  text-decoration: underline;
 }
 .contact-info {
   font-style: normal;
@@ -43,7 +42,6 @@
 .contacts: hover,
 .contacts: focus {
   color: #404bbf;
-  text-decoration: underline;
 }
 .body {
   font-family: "Roboto", sans-serif;
